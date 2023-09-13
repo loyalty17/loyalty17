@@ -19,17 +19,17 @@
 
 </p>
 <p align="center">
-  <a href="https://github.com/gyroflaw">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Creative,%20Passionate%20and%20Efficient%20Software%20Engineer;+7%2B%20years%20of%20hands-on%20experience;&center=true&width=800&height=45">
+  <a href="https://github.com/loyalty17">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=735&lines=Creative%2C+Passionate+and+Efficient+Web+Developer;+7%2B+years+of+hands-on+experience" alt="Typing SVG" />
   </a>
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api?username=gyroflaw&theme=merko&layout=compact&hide_border=true&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gyroflaw&hide=prs&theme=merko&layout=compact&hide_border=true&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api?username=loyalty17&theme=merko&layout=compact&hide_border=true&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=loyalty17&hide=prs&theme=merko&layout=compact&hide_border=true&show_icons=true)
 
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=gyroflaw.gyroflaw" />
 <img align="right" src="https://img.shields.io/github/followers/gyroflaw?label=Follow&style=social" />
-<h1 align="center"></h1>
+<h1 align="center">LOYALTY17</h1>
 
 ## **𝐒𝐤𝐢𝐥𝐥𝐬**
 
@@ -39,8 +39,6 @@
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/node-js-1174925.png" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/javascript-24-1174950.png" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/typescript-1174965.png" width="100"></td>
-    <td><img src="./images/rust.svg" width="100" alt="Rust" /></td>
-    <td><img src="./images/go.svg" width="100" alt="Rust" /></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/python-2-226051.png" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/java-59-1174952.png" width="100"></td>
   </tr>
