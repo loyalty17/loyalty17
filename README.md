@@ -20,7 +20,7 @@
 </p>
 <p align="center">
   <a href="https://github.com/loyalty17">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=735&lines=Creative%2C+Passionate+and+Efficient+Web+Developer;+7%2B+years+of+hands-on+experience" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=800&lines=Creative%2C+Passionate+and+Efficient+Web+Developer;+7%2B+years+of+hands-on+experience;&center=true" alt="Typing SVG" />
   </a>
 </p>
 
