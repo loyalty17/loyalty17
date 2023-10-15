@@ -42,6 +42,7 @@
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/python-2-226051.png" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/java-59-1174952.png" width="100"></td>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="100" height="100"/></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="100" height="100"/></td>
   </tr>
 </table>
 
