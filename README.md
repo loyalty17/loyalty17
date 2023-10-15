@@ -29,7 +29,7 @@
 
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=gyroflaw.gyroflaw" />
 <img align="right" src="https://img.shields.io/github/followers/gyroflaw?label=Follow&style=social" />
-<h1 align="center">LOYALTY17</h1>
+<h1 align="center">BROCUTE</h1>
 
 ## **𝐒𝐤𝐢𝐥𝐥𝐬**
 
@@ -41,6 +41,7 @@
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/typescript-1174965.png" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/python-2-226051.png" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/java-59-1174952.png" width="100"></td>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-64/ruby-2752084.png" width="100"></td>
   </tr>
 </table>
 
